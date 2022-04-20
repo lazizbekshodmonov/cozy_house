@@ -1,0 +1,128 @@
+{
+      "aboutTheShelter": {
+            "image": "./image/about-pets.png",
+            "textContent": "Currently we have 121 dogs and 342 cats on our hands and statistics show that only 20% of them will find a family. The others will continue to live with us and will be waiting for a lucky chance to become dearly loved. We feed our wards with the best food and make sure that they do not get sick, feel comfortable (including psychologically) and well. We are supported by 87 volunteers and 28 employees of various skill levels. About 12% of the animals are taken by the shelter staff. Taking care of the animals, they become attached to the pets and would hardly ever leave them alone."
+      },
+      "friends": [
+            {
+                  "name": "Katrine",
+                  "image": "./image/pets-katrine.png",
+                  "age": "2",
+                  "breed": "Dog - Labrador",
+                  "info": "Katrine is a sweet 2 months old Labrador that is patiently waiting to find a new forever home. This girl really enjoys being able to go outside to run and play, but won't hesitate to play up a storm in the house if she has all of her favorite toys.",
+                  "inoculations": "none",
+                  "diseases": "none",
+                  "parasites": "none"
+            },
+            {
+                  "name": "Jennifer",
+                  "image": "./image/pets-jennifer.png",
+                  "age": "1",
+                  "breed": "Dog - Labrador",
+                  "info": "Jennifer is a sweet 2 months old Labrador that is patiently waiting to find a new forever home. This girl really enjoys being able to go outside to run and play, but won't hesitate to play up a storm in the house if she has all of her favorite toys.",
+                  "inoculations": "none",
+                  "diseases": "none",
+                  "parasites": "none" 
+            },
+            {
+                  "name": "Woody",
+                  "image": "./image/pets-woody.png",
+                  "age": "1",
+                  "breed": "Dog - Labrador",
+                  "info": "Jennifer is a sweet 2 months old Labrador that is patiently waiting to find a new forever home. This girl really enjoys being able to go outside to run and play, but won't hesitate to play up a storm in the house if she has all of her favorite toys.",
+                  "inoculations": "none",
+                  "diseases": "none",
+                  "parasites": "none" 
+            },
+            {
+                  "name": "Sophia",
+                  "image": "./image/pets-katrine.png",
+                  "age": "3",
+                  "breed": "Dog - Labrador",
+                  "info": "Sophia is a sweet 3 months old Labrador that is patiently waiting to find a new forever home. This girl really enjoys being able to go outside to run and play, but won't hesitate to play up a storm in the house if she has all of her favorite toys.",
+                  "inoculations": "none",
+                  "diseases": "none",
+                  "parasites": "none"
+            },
+            {
+                  "name": "Jennifer",
+                  "image": "./image/pets-jennifer.png",
+                  "age": "1",
+                  "breed": "Dog - Labrador",
+                  "info": "Jennifer is a sweet 2 months old Labrador that is patiently waiting to find a new forever home. This girl really enjoys being able to go outside to run and play, but won't hesitate to play up a storm in the house if she has all of her favorite toys.",
+                  "inoculations": "none",
+                  "diseases": "none",
+                  "parasites": "none" 
+            },
+            {
+                  "name": "Woody",
+                  "image": "./image/pets-woody.png",
+                  "age": "1",
+                  "breed": "Dog - Labrador",
+                  "info": "Jennifer is a sweet 2 months old Labrador that is patiently waiting to find a new forever home. This girl really enjoys being able to go outside to run and play, but won't hesitate to play up a storm in the house if she has all of her favorite toys.",
+                  "inoculations": "none",
+                  "diseases": "none",
+                  "parasites": "none" 
+            },
+            {
+                  "name": "Woody",
+                  "image": "./image/pets-woody.png",
+                  "age": "1",
+                  "breed": "Dog - Labrador",
+                  "info": "Jennifer is a sweet 2 months old Labrador that is patiently waiting to find a new forever home. This girl really enjoys being able to go outside to run and play, but won't hesitate to play up a storm in the house if she has all of her favorite toys.",
+                  "inoculations": "none",
+                  "diseases": "none",
+                  "parasites": "none" 
+            },
+            {
+                  "name": "Woody",
+                  "image": "./image/pets-woody.png",
+                  "age": "1",
+                  "breed": "Dog - Labrador",
+                  "info": "Jennifer is a sweet 2 months old Labrador that is patiently waiting to find a new forever home. This girl really enjoys being able to go outside to run and play, but won't hesitate to play up a storm in the house if she has all of her favorite toys.",
+                  "inoculations": "none",
+                  "diseases": "none",
+                  "parasites": "none" 
+            },
+            {
+                  "name": "Jennifer",
+                  "image": "./image/pets-jennifer.png",
+                  "age": "1",
+                  "breed": "Dog - Labrador",
+                  "info": "Jennifer is a sweet 2 months old Labrador that is patiently waiting to find a new forever home. This girl really enjoys being able to go outside to run and play, but won't hesitate to play up a storm in the house if she has all of her favorite toys.",
+                  "inoculations": "none",
+                  "diseases": "none",
+                  "parasites": "none" 
+            },
+            {
+                  "name": "Woody",
+                  "image": "./image/pets-woody.png",
+                  "age": "1",
+                  "breed": "Dog - Labrador",
+                  "info": "Jennifer is a sweet 2 months old Labrador that is patiently waiting to find a new forever home. This girl really enjoys being able to go outside to run and play, but won't hesitate to play up a storm in the house if she has all of her favorite toys.",
+                  "inoculations": "none",
+                  "diseases": "none",
+                  "parasites": "none" 
+            },
+            {
+                  "name": "Woody",
+                  "image": "./image/pets-woody.png",
+                  "age": "1",
+                  "breed": "Dog - Labrador",
+                  "info": "Jennifer is a sweet 2 months old Labrador that is patiently waiting to find a new forever home. This girl really enjoys being able to go outside to run and play, but won't hesitate to play up a storm in the house if she has all of her favorite toys.",
+                  "inoculations": "none",
+                  "diseases": "none",
+                  "parasites": "none" 
+            },
+            {
+                  "name": "Woody",
+                  "image": "./image/pets-woody.png",
+                  "age": "1",
+                  "breed": "Dog - Labrador",
+                  "info": "Jennifer is a sweet 2 months old Labrador that is patiently waiting to find a new forever home. This girl really enjoys being able to go outside to run and play, but won't hesitate to play up a storm in the house if she has all of her favorite toys.",
+                  "inoculations": "none",
+                  "diseases": "none",
+                  "parasites": "none" 
+            }
+      ]
+}
